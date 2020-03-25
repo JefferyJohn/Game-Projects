@@ -1,2 +1,3 @@
-# Unity-Practice
-Trying tutorials from Unity
+# Unity-Projects
+Creating games with Unity and C#
+ 
