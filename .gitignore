@@ -2,6 +2,7 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
+# Modified to account for each Unity project being in its own subfolder
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
